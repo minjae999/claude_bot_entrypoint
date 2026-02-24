@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ -z "$SSH_AUTH_SOCK" ]; then
     echo "not set a SSH_AUTH_SOC."
     exit 1
