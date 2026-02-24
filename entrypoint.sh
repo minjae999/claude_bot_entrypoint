@@ -8,3 +8,4 @@ fi
 # Clone 
 git clone git@github.com:minjae999/shared_alfredo_telegram_bot.git
 git clone git@github.com:minjae999/alfredo_telegram_bot.git
+git clone git@github.com:minjae999/personal_documents.git
